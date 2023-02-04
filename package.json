@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/c-MatMaka-r/product-preview-card-component/issues"
   },
-  "homepage": "https://github.com/c-MatMaka-r/product-preview-card-component#readme"
+  "homepage": "https://github.com/c-MatMaka-r/product-preview-card-component#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
 }
