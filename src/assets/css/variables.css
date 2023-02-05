@@ -1,0 +1,65 @@
+:root {
+  /* primary colors */
+  --cream-400: #f2ebe3;
+  --dark-cyan-400: #3c8067;
+  --dark-cyan-700: #1a4031;
+
+  /* neutral colors */
+  --dark-blue-700: #1c232b;
+  --dark-gold-400: #a47f3b;
+  --dark-gold-700: #b19870;
+  --dark-grayish-blue-700: #6c7289;
+  --white: #fff;
+
+  /* subtle colors */
+  --black-2a: hsla(0, 0%, 0%, 0.04);
+
+  /* font-weight */
+  --ft-wt-500: 500;
+  --ft-wt-700: 700;
+
+  /* font-family */
+  --ft-primary: "Montserrat", sans-serif;
+  --ft-secondary: "Fraunces", serif;
+
+  /* font-size */
+  --ft-se-200: 0.75rem;
+  --ft-se-380: 0.85rem;
+  --ft-se-400: 0.875rem;
+  --ft-se-700: 2rem;
+
+  /* border-radius */
+  --br-rs-500: 0.4em;
+  --br-rs-700: 0.8em;
+
+  /* gap */
+  --gap-400: 0.5em;
+  --gap-700: 0.9em;
+  --gap-800: 1.3em;
+
+  /* padding */
+  --pg-400: 0.5em;
+  --pg-600: 1em;
+  --pg-700: 1.9em;
+  --pg-750: 2.2em;
+
+  /* padding-block */
+  --pg-bk-700: 2em;
+
+  /* spaces */
+  --space-600: 2em;
+
+  /* margin-top */
+  --mn-top-300: 0.3em;
+  --mn-top-400: 0.5em;
+
+  /* line-height */
+  --le-ht-400: 1em;
+  --le-ht-700: 1.8em;
+
+  /* letter-spacing */
+  --lr-sg-400: 0.25em;
+
+  /* box-shadow */
+  --box-sw-400: 0 4px 4px var(--black-2a);
+}

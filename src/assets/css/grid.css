@@ -1,0 +1,32 @@
+.page {
+  display: grid;
+  grid-template-areas: "main" "footer";
+  grid-template-rows: 1fr auto;
+}
+
+.page__main {
+  grid-area: main;
+}
+
+.page__footer {
+  grid-area: footer;
+}
+
+.main {
+  display: grid;
+}
+
+.product-card {
+  align-self: center;
+}
+
+.product-card__content {
+  display: grid;
+  gap: var(--product-card__content_gap, var(--gap-700));
+}
+
+@media (min-width: 48em) {
+  :root {
+    --product-card__content_gap: var(--gap-800);
+  }
+}

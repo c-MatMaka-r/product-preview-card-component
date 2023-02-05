@@ -1,0 +1,31 @@
+.page {
+  font: var(--ft-se-400) var(--ft-primary);
+}
+
+.product-card__category-title {
+  font-size: var(--product-card__category-title_ft-se, var(--ft-se-380));
+  letter-spacing: var(--product-card__category-title_lr-sg, var(--lr-sg-400));
+}
+
+.product-card__title {
+  font-family: var(--product-card__title_ft-fy, var(--ft-secondary));
+  font-size: var(--product-card__title_ft-se, var(--ft-se-700));
+  line-height: var(--product-card__title_le-ht, var(--le-ht-400));
+}
+
+.product-card__desc {
+  line-height: var(--product-card__desc_le-ht, var(--le-ht-700));
+}
+
+.product-card__new-price {
+  font-family: var(--product-card__new-price_ft-fy, var(--ft-secondary));
+  font-size: var(--product-card__new-price_ft-se, var(--ft-se-700));
+}
+
+.primary-btn {
+  font-weight: var(--primary-btn_ft-wt, var(--ft-wt-700));
+}
+
+.attr {
+  font-size: var(--attr_ft-se, var(--ft-se-200));
+}
