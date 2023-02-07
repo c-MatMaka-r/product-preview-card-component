@@ -2,7 +2,7 @@
   "name": "product-preview-card-component",
   "version": "1.0.0",
   "description": "\"product preview card component\"",
-  "source": "src/index-t.html",
+  "source": "src/index.html",
   "scripts": {
     "start": "parcel",
     "build": "parcel build"
@@ -29,19 +29,5 @@
   "devDependencies": {
     "parcel": "^2.8.3",
     "parcel-namer-rewrite": "^2.0.0-rc.3"
-  },
-  "parcel-namer-rewrite": {
-    "chain": "@parcel/namer-default",
-    "hashing": "always",
-    "disable": false,
-    "rules": {
-      "index-t.html": "index.html",
-      "index-t(.*).css": "index.css"
-    },
-    "profiles": {
-      "development": {},
-      "production": {},
-      "other-custom-profile": {}
-    }
   }
 }
