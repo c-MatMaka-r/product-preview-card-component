@@ -1,21 +1,29 @@
-4262
+4273
+125/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/readme.md1675548470481954355 0
 182/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/challenge/product-preview-card-component-main/images/icon-cart.svg1658143847000000000 0
 180/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/challenge/product-preview-card-component-main/README-template.md1658143847000000000 0
 186/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/challenge/product-preview-card-component-main/design/mobile-design.jpg1658143847000000000 0
 186/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/challenge/product-preview-card-component-main/design/active-states.jpg1658143847000000000 0
 125/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/challenge1675533315792568632 1
-155/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/dist/image-product-desktop.d120d90a.jpg1675551250334808638 0
-143/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/dist/index.07fedde6.css.map1675551250342808399 0
-147/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/dist/favicon-32x32.6aac2c21.png1675551250334808638 0
-167/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/dist/product-preview-card-component.59712999.js.map1675551250342808399 0
-129/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/src/readme.md1675548470481954355 0
+155/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/dist/image-product-desktop.d120d90a.jpg1675752157994909945 0
+147/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/dist/favicon-32x32.6aac2c21.png1675752157994909945 0
+141/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/dist/index-t.07fedde6.css1675752157974910222 0
+144/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/dist/index-t.b21ffa27.js.map1675752158006909778 0
+145/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/dist/index-t.2f681944.css.map1675752148419043257 0
+140/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/dist/index-t.b21ffa27.js1675752157994909945 0
+154/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/dist/image-product-mobile.6dd5cee3.jpg1675752148159046892 0
+145/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/dist/index-t.07fedde6.css.map1675752158002909834 0
+133/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/dist/index-t.html1675752157974910222 0
 147/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/src/assets/images/icon-cart.svg1675533391561808064 0
 133/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/src/assets/images1675533391565808130 1
-140/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/src/assets/css/style.css1675551260494508495 0
-140/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/src/assets/css/reset.css1675548658217355587 0
-142/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/src/assets/css/sr-only.css1675548470481954355 0
-119/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/src1675550053404268255 1
-123/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/todo.md1675548470481954355 0
+145/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/src/assets/css/parts/flex.css1675602084644490132 0
+146/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/src/assets/css/parts/reset.css1675601394022020232 0
+145/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/src/assets/css/parts/grid.css1675602102760121124 0
+150/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/src/assets/css/parts/variables.css1675601394022020232 0
+140/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/src/assets/css/style.css1675698525491079962 0
+119/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/src1675751443470019981 1
+123/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/.tidyrc1675752078768048277 0
+123/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/todo.md1675752309740932649 0
 145/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/is-glob/index.js1675533157678007445 0
 148/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/color-name/index.js1675533157678007445 0
 149/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/color-name/README.md1675533157774008988 0
@@ -248,7 +256,7 @@
 149/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/source-map/README.md1675533157714008023 0
 152/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/source-map/package.json1675533157614006416 0
 162/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/svgo/plugins/removeXMLProcInst.js1675533158806025577 0
-133/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/package-lock.json1675533161598070464 0
+133/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/package-lock.json1675749285639541838 0
 165/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/svgo/plugins/cleanupNumericValues.js1675533158266016896 0
 150/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/svgo/plugins/_path.js1675533158034013166 0
 161/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/svgo/plugins/removeEmptyAttrs.js1675533158714024097 0
@@ -660,6 +668,7 @@
 160/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/posthtml-render/dist/index.d.ts1675533158010012781 0
 161/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/yaml/dist/PlainValue-ec8e588e.js1675533158486020432 0
 151/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/@parcel/diagnostic/lib1675533157990012459 1
+136/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/src/assets/css/parts1675602102760121124 1
 191/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/dom-serializer/node_modules/entities/lib/decode_codepoint.d.ts1675533158262016831 0
 157/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/commander/typings/index.d.ts1675533158198015803 0
 169/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/@parcel/diagnostic/test/markdown.test.js1675533157966012073 0
@@ -680,7 +689,9 @@
 172/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/@parcel/optimizer-svgo/src/SVGOOptimizer.js1675533157846010144 0
 155/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/@parcel/optimizer-svgo/src1675533157790009244 1
 155/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/@parcel/optimizer-svgo/lib1675533157710007958 1
+148/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/src/assets/css/parts/sr-only.css1675548470481954355 0
 164/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/@parcel/optimizer-svgo/package.json1675533157878010660 0
+146/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/src/assets/css/parts/theme.css1675601394022020232 0
 170/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/@parcel/packager-html/src/HTMLPackager.js1675533157874010595 0
 158/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/@parcel/packager-html/LICENSE1675533157674007380 0
 170/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/@parcel/packager-html/lib/HTMLPackager.js1675533157758008731 0
@@ -790,6 +801,7 @@
 154/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/@parcel/core/src/utils.js1675533159258032843 0
 172/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/@parcel/core/test/PublicEnvironment.test.js1675533159178031556 0
 166/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/@parcel/core/test/Environment.test.js1675533158894026990 0
+147/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/dist/favicon-32x32.fe944b6e.png1675752148159046892 0
 171/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/@parcel/core/test/PublicDependency.test.js1675533159178031556 0
 168/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/@parcel/core/test/InternalAsset.test.js1675533158978028341 0
 169/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/@parcel/core/test/RequestTracker.test.js1675533159198031878 0
@@ -944,7 +956,6 @@
 153/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/@parcel/packager-raw/src1675533157790009244 1
 157/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/@parcel/packager-raw/LICENSE1675533157674007380 0
 168/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/@parcel/packager-raw/lib/RawPackager.js1675533157750008601 0
-163/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/dist/product-preview-card-component.59712999.js1675551250330808757 0
 153/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/@parcel/packager-raw/lib1675533157710007958 1
 162/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/@parcel/packager-raw/package.json1675533157874010595 0
 138/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/path-type1675533157774008988 1
@@ -1160,7 +1171,6 @@
 164/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/@parcel/compressor-raw/package.json1675533157878010660 0
 146/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/timsort/README.md1675533157734008345 0
 136/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/timsort1675533157954011881 1
-139/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/src/assets/css/grid.css1675550946011120831 0
 164/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/type-fest/source/readonly-deep.d.ts1675533158426019468 0
 156/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/css-select/lib/general.d.ts1675533158466020111 0
 161/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/entities/lib/decode_codepoint.js1675533157718008088 0
@@ -1255,7 +1265,7 @@
 160/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/@parcel/core/src/projectPath.js1675533159170031427 0
 179/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/@swc/helpers/lib/_class_private_field_loose_key.js1675533158314017667 0
 180/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/mdb_drop.c1675533158690023711 0
-143/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/dist/icon-cart.3865a36b.svg1675551250322808996 0
+143/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/dist/icon-cart.3865a36b.svg1675752157974910222 0
 156/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/ordered-binary/package.json1675533158030013102 0
 180/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/mdb_load.c1675533158734024419 0
 158/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/weak-lru-cache/dist/index.cjs1675533157678007445 0
@@ -1372,6 +1382,7 @@
 158/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/v8-compile-cache/package.json1675533157758008731 0
 180/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/caniuse-lite/data/features/credential-management.js1675533158998028662 0
 179/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/caniuse-lite/data/features/font-variant-numeric.js1675533159390034964 0
+143/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/dist/icon-cart.36588176.svg1675752148411043370 0
 159/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/@parcel/watcher/src/Watcher.hh1675533158462020046 0
 164/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/@parcel/transformer-babel/README.md1675533158358018375 0
 166/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/caniuse-lite/data/features/imports.js1675533159434035672 0
@@ -1504,7 +1515,7 @@
 159/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/type-fest/ts41/kebab-case.d.ts1675533158274017024 0
 174/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/caniuse-lite/dist/unpacker/browserVersions.js1675533158826025897 0
 194/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/@parcel/node-resolver-core/test/fixture/packages/source/source.js1675533159190031748 0
-128/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules1675533161830074195 1
+128/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules1675749285519541890 1
 169/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/caniuse-lite/data/features/css-resize.js1675533159238032521 0
 163/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/caniuse-lite/data/features/calc.js1675533158842026155 0
 171/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/caniuse-lite/data/features/css-autofill.js1675533159022029049 0
@@ -1605,6 +1616,7 @@
 175/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/caniuse-lite/data/features/css-touch-action.js1675533159258032843 0
 138/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/yaml/dist1675533158698023841 1
 170/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/caniuse-lite/data/features/will-change.js1675533159678039594 0
+141/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/dist/index-t.2f681944.css1675752148411043370 0
 178/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/caniuse-lite/data/features/css-backdrop-filter.js1675533159034029242 0
 181/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/caniuse-lite/data/features/page-transition-events.js1675533159578037986 0
 147/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/css-tree/lib/utils1675533159062029692 1
@@ -1626,7 +1638,7 @@
 151/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/domutils/lib/legacy.js1675533157918011303 0
 179/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/@parcel/transformer-react-refresh-wrap/lib/helpers1675533157750008601 1
 167/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/caniuse-lite/data/features/css-sel3.js1675533159246032649 0
-130/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/src/assets/css1675551260494508495 1
+130/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/src/assets/css1675698525491079962 1
 162/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/electron-to-chromium/package.json1675533158390018888 0
 168/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/caniuse-lite/data/features/css-fixed.js1675533159146031042 0
 160/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/@parcel/codeframe/test/fixtures1675533157738008408 1
@@ -1737,6 +1749,7 @@
 161/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/nth-check/lib/esm/index.d.ts.map1675533158166015288 0
 180/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/caniuse-lite/data/features/css-container-queries.js1675533159074029884 0
 168/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/caniuse-lite/data/features/mpeg-dash.js1675533159546037473 0
+151/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/src/assets/css/parts/typography.css1675601394022020232 0
 164/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/caniuse-lite/data/features/webgl.js1675533159674039531 0
 157/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/@jridgewell/resolve-uri/dist1675533157990012459 1
 158/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/css-tree/lib/parser/create.js1675533158502020689 0
@@ -1797,6 +1810,7 @@
 208/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/package-browser/browser.js1675533158470020176 0
 165/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/caniuse-lite/data/features/path2d.js1675533159582038051 0
 160/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/caniuse-lite/data/regions/HN.js1675533159426035543 0
+132/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/src/index-t.html1675752116619494177 0
 173/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/entities/lib/generated/decode-data-html.d.ts1675533158386018825 0
 169/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/css-tree/lib/syntax/node/MediaFeature.js1675533159054029562 0
 173/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/caniuse-lite/data/features/object-entries.js1675533159570037858 0
@@ -1954,7 +1968,7 @@
 160/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/caniuse-lite/data/regions/BW.js1675533158834026027 0
 168/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/caniuse-lite/data/features/vibration.js1675533159670039466 0
 181/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/@parcel/package-manager/test/fixtures/packages/peers1675533158822025833 1
-120/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/dist1675551250342808399 1
+120/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/dist1675752158006909778 1
 160/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/caniuse-lite/data/regions/GG.js1675533159414035350 0
 199/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/@parcel/node-resolver-core/test/fixture/packages/source-alias/other.js1675533159130030784 0
 162/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/htmlnano/docs/docs/050-modules.md1675533158894026990 0
@@ -2004,7 +2018,6 @@
 150/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/yaml/browser/index.js1675533158186015610 0
 163/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/caniuse-lite/data/features/ping.js1675533159590038180 0
 148/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/regenerator-runtime1675533157874010595 1
-145/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/src/assets/css/typography.css1675550466293331917 0
 172/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/caniuse-lite/data/features/server-timing.js1675533159626038758 0
 149/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/domhandler/readme.md1675533158030013102 0
 170/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/caniuse-lite/data/features/multicolumn.js1675533159550037536 0
@@ -2355,7 +2368,7 @@
 172/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/@parcel/utils/test/input/config/config.json1675533158990028534 0
 160/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/caniuse-lite/data/regions/WF.js1675533159678039594 0
 149/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/htmlnano/lib/modules1675533158478020303 1
-115/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component1675551248402866372 1
+115/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component1675752309736932697 1
 168/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/caniuse-lite/data/features/css3-attr.js1675533159286033293 0
 160/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/caniuse-lite/data/regions/EE.js1675533159350034321 0
 154/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/msgpackr/rollup.config.js1675533158422019403 0
@@ -2515,7 +2528,7 @@
 169/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/yaml/browser/dist/PlainValue-b8036b75.js1675533158470020176 0
 170/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/@parcel/utils/src/generateBuildMetrics.js1675533158302017474 0
 156/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/@parcel/workers/lib/process1675533158414019275 1
-147/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/.package-lock.json1675533161834074258 0
+147/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/.package-lock.json1675749285743541792 0
 160/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/caniuse-lite/data/regions/US.js1675533159662039337 0
 171/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/caniuse-lite/data/features/font-feature.js1675533159378034771 0
 154/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/@parcel/codeframe/LICENSE1675533157658007122 0
@@ -2557,7 +2570,6 @@
 175/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/@swc/helpers/src/_class_private_method_set.mjs1675533158882026798 0
 160/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/caniuse-lite/data/regions/PG.js1675533159586038115 0
 145/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/semver/range.bnf1675533157782009116 0
-139/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/dist/index.07fedde6.css1675551250322808996 0
 163/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/caniuse-lite/data/features/opus.js1675533159578037986 0
 172/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/caniuse-lite/data/features/text-overflow.js1675533159650039144 0
 157/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/type-fest/source/except.d.ts1675533158186015610 0
@@ -2593,7 +2605,7 @@
 174/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/@parcel/watcher/src/windows/WindowsBackend.cc1675533158346018182 0
 170/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/caniuse-lite/data/features/eventsource.js1675533159370034642 0
 151/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/picomatch/lib/utils.js1675533158030013102 0
-128/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/package.json1675536454485469375 0
+128/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/package.json1675750486876752530 0
 160/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/caniuse-lite/data/regions/AW.js1675533158622022618 0
 152/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/@parcel/fs/package.json1675533158270016960 0
 142/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/@parcel/cache1675533158178015481 1
@@ -2931,7 +2943,6 @@
 151/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/css-tree/data/index.js1675533158902027119 0
 147/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/domhandler/LICENSE1675533157622006544 0
 187/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/caniuse-lite/data/features/mdn-css-unicode-bidi-isolate.js1675533159526037150 0
-131/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/dist/index.html1675551250326808877 0
 151/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/svgo/lib/svgo/tools.js1675533158950027891 0
 174/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/caniuse-lite/data/features/input-inputmode.js1675533159442035800 0
 149/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/tslib/tslib.es6.html1675533157646006930 0
@@ -2961,7 +2972,7 @@
 160/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/@parcel/package-manager/LICENSE1675533157674007380 0
 173/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/caniuse-lite/data/features/resizeobserver.js1675533159610038501 0
 166/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/caniuse-lite/data/features/portals.js1675533159594038244 0
-146/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/@msgpackr-extract1675533161414067506 1
+146/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/@msgpackr-extract1675749285519541890 1
 174/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/@swc/helpers/src/_class_private_field_set.mjs1675533158870026605 0
 144/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/braces/index.js1675533157726008216 0
 173/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/caniuse-lite/data/features/filereadersync.js1675533159374034707 0
@@ -3153,7 +3164,7 @@
 213/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/side-effects-false/package.json1675533159250032713 0
 148/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/terser/lib/parse.js1675533159082030012 0
 149/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/terser/lib/minify.js1675533159006028791 0
-154/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/dist/image-product-mobile.1142d873.jpg1675551250334808638 0
+154/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/dist/image-product-mobile.1142d873.jpg1675752157994909945 0
 200/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/msgpackr-extract/node_modules/node-gyp-build-optional-packages/index.js1675533157826009824 0
 148/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/stable/package.json1675533157618006480 0
 143/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/terser/LICENSE1675533157822009759 0
@@ -3369,7 +3380,7 @@
 153/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/@swc/helpers/lib/_jsx.js1675533158578021912 0
 181/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/@swc/helpers/lib/_class_private_field_destructure.js1675533158258016767 0
 184/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/sample-bdb.txt1675533159302033549 0
-134/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/@lmdb1675533161414067506 1
+134/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/@lmdb1675749285519541890 1
 149/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/@lmdb/lmdb-linux-x641675533159290033356 1
 170/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/@lmdb/lmdb-linux-x64/node.abi83.musl.node1675533159170031427 0
 165/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/@swc/helpers/lib/_super_prop_base.js1675533158690023711 0
@@ -3798,7 +3809,7 @@
 153/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/safe-buffer/package.json1675533157734008345 0
 177/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/abortcontroller-polyfill/dist/abortcontroller.js1675533157958011946 0
 191/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/abortcontroller-polyfill/dist/abortcontroller-polyfill-only.js1675533157874010595 0
-130/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/src/index.html1675549562862706422 0
+130/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/src/index.html1675716648114003938 0
 157/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/@swc/helpers/lib/_type_of.js1675533158754024740 0
 135/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/semver1675533157958011946 1
 148/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/semver/package.json1675533157926011430 0
@@ -4002,7 +4013,6 @@
 148/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/term-size/readme.md1675533158154015095 0
 181/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/@swc/helpers/src/_class_extract_field_descriptor.mjs1675533158854026347 0
 166/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/@swc/helpers/src/_to_property_key.mjs1675533159098030270 0
-144/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/src/assets/css/variables.css1675551133694704724 0
 176/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/@swc/helpers/src/_skip_first_generator_next.mjs1675533159066029755 0
 178/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/Makefile1675533158426019468 0
 172/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/caniuse-lite/data/features/web-animation.js1675533159670039466 0
@@ -4110,6 +4120,7 @@
 163/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/@parcel/utils/test/urlJoin.test.js1675533158986028469 0
 167/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/svgo/lib/svgo/css-style-declaration.js1675533158494020561 0
 161/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/@parcel/utils/src/escape-html.js1675533158278017089 0
+155/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/dist/image-product-desktop.1af46163.jpg1675752148163046835 0
 174/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/@parcel/packager-js/lib/GlobalOutputFormat.js1675533158138014838 0
 161/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/@parcel/utils/src/http-server.js1675533158394018953 0
 160/home/hardbuffet/Documents/web-dev/projects/frontendmentor/001-project-Y_02_04_18_28/product-preview-card-component/node_modules/chrome-trace-event/package.json1675533157734008345 0
